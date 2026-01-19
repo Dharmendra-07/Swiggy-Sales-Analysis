@@ -27,30 +27,6 @@ The project simulates a **real-world data analyst workflow**, from understanding
 
 ---
 
-## 📂 Project Workflow & Timeline
-
-| Section | Topic | Timestamp |
-|------|------|----------|
-| 1 | Introduction to Project | 00:00 |
-| 2 | Business Requirements | 06:14 |
-| 3 | Data Walkthrough | 12:44 |
-| 4 | Data Analysis Concepts | 19:53 |
-| 5 | Importing Pandas Libraries | 28:28 |
-| 6 | Importing Data | 36:28 |
-| 7 | Data Quality Checks | 39:50 |
-| 8 | Metadata Analysis | 42:00 |
-| 9 | Data Types Handling | 45:45 |
-| 10 | Building KPIs | 50:10 |
-| 11 | Monthly Sales Trend | 01:03:21 |
-| 12 | Daily Sales Trend | 01:11:09 |
-| 13 | Sales by Food Type | 01:15:00 |
-| 14 | State-wise Sales | 01:22:28 |
-| 15 | Quarterly Performance Summary | 01:26:07 |
-| 16 | Top 5 Cities by Revenue | 01:28:59 |
-| 17 | Outro | 01:31:40 |
-
----
-
 ## 📊 Key Performance Indicators (KPIs)
 
 ### 🔹 Sales Metrics
@@ -104,4 +80,4 @@ The project simulates a **real-world data analyst workflow**, from understanding
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Dharmendra-07/swiggy-sales-analysis.git
+git clone https://github.com/Dharmendra-07/Swiggy-Sales-Analysis
