@@ -80,4 +80,4 @@ The project simulates a **real-world data analyst workflow**, from understanding
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Dharmendra-07/Swiggy-Sales-Analysis
+git clone https://github.com/Dharmendra-07/Swiggy-Sales-Analysis.git
